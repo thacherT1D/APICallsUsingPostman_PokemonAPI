@@ -1,10 +1,10 @@
-##Learning API GET Calls using Postman and the Pokemon API
+## Learning API GET Calls using Postman and the Pokemon API
 
 An application programming interface (API) is a set of routine definitions, protocols, and tools for building software and applications. A good API makes it easier to develop a program by providing all the building blocks, which are then put together by the programmer. [wikipedia](https://en.wikipedia.org/wiki/Application_programming_interface)
 
 For this example we're going to use the [Pokemon API](https://pokeapi.co/). Open APIs, such as the Pokemon API, do not require developer keys or any other kind of authorization.
 
-###Getting Started with Postman
+### Getting Started with Postman
 **[Postman Docs](https://www.getpostman.com/)**
 
 You can use the web-based or desktop version of Postman.
